@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700799236651",
+    "project_id": "yapp-c62a1",
+    "storage_bucket": "yapp-c62a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700799236651:android:3b1a471a8ad452410e086e",
+        "android_client_info": {
+          "package_name": "stalteri.piero.yapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABzVxcdmyiyM0657xXFK9WN9yy1QSxDlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
